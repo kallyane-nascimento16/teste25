@@ -1,0 +1,11 @@
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\imc\imc_windows\obj\Debug\imc_windows.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\imc\imc_windows\obj\Debug\imc_windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\imc\imc_windows\obj\Debug\imc_windows.Form1.resources
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\imc\imc_windows\obj\Debug\imc_windows.Properties.Resources.resources
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\imc\imc_windows\obj\Debug\imc_windows.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\imc\imc_windows\obj\Debug\imc_windows.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\imc\imc_windows\bin\Debug\imc_windows.exe.config
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\imc\imc_windows\bin\Debug\imc_windows.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\imc\imc_windows\bin\Debug\imc_windows.pdb
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\imc\imc_windows\obj\Debug\imc_windows.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\imc\imc_windows\obj\Debug\imc_windows.pdb
